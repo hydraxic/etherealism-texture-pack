@@ -1,2 +1,5 @@
-# etherealism-v1.0
-my first texture pack for hypixel skyblock
+# Etherealism Texture Pack
+Made by hydraxic79
+For Hypixel SkyBlock
+
+Pack version 1.0.16
