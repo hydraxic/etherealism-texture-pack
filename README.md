@@ -1,5 +1,5 @@
 # Etherealism Texture Pack
-Made by hydraxic79
+Made by hydraxic_
 For Hypixel SkyBlock
 
-Pack version 1.0.16
+Pack version 1.0.2
